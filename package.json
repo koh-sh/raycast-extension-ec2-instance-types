@@ -27,7 +27,7 @@
     }
   ],
   "dependencies": {
-    "@aws-sdk/client-ec2": "^3.749.0",
+    "@aws-sdk/client-ec2": "^3.1166.0",
     "@raycast/api": "^1.91.2",
     "@raycast/utils": "^1.17.0"
   },
